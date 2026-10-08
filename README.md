@@ -189,4 +189,5 @@ Feedstock Maintainers
 =====================
 
 * [@bgruening](https://github.com/bgruening/)
+* [@jsmolic](https://github.com/jsmolic/)
 
